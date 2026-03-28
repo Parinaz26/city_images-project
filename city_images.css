@@ -1,0 +1,10 @@
+body{
+    text-align: center;background-color: palegreen;
+}
+button{
+    background-color: paleturquoise;
+}
+img:hover{
+    opacity:0.5;color: grey;
+}
+        
